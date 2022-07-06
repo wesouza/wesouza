@@ -3,10 +3,8 @@
 
 
 - 🔭 Estudando muito 🙏🏾
-- 🌱 Estudando HTML5, CSS, JS, React Native
-- ⚡ Fun fact: Viciado em Coca-Cola©
+- 🌱 Estudando NestJS, NextJS, NodeJS, CSS, JS
 
--->
 
 <div align="center">
   <a href="https://github.com/wesouza">
