@@ -9,7 +9,7 @@
 -->
 
 <div align="center">
-  <a href="https://github.com/Caarlos7x">
+  <a href="https://github.com/wesouza">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=wesouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesouza&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -26,8 +26,8 @@
  ##
   
  <div>
-  <a href="https://instagram.com/caarlos7x" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/caarlos7x" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:caarlos.frei@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/euwesouza" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+  <a href = "mailto:016digital@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
  </div>
