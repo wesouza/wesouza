@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Sempre em busca de aperferçoar minhas habilidades 🙏🏾
+- 🔭 Sempre em busca de aperfeiçoar meus conhecimentos e minhas habilidades, em constante crescimento profissional. 🙏🏾
   
   <div style="display: inline_block"><br>
       <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
